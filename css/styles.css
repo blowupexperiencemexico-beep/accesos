@@ -1,0 +1,7 @@
+body{margin:0;background:#000;color:#fff;font-family:Arial}
+.center{height:100vh;display:flex;flex-direction:column;justify-content:center;align-items:center;gap:14px}
+input,button{width:260px;padding:12px;background:#111;border:1px solid #333;color:#fff}
+button{cursor:pointer}
+.foto{width:220px;border-radius:12px}
+.valid{color:#00ff88;font-size:32px}
+.invalid{color:#ff4444;font-size:32px}
